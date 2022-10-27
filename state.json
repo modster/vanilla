@@ -1,0 +1,102 @@
+{
+  "sheetsById": {
+    "Sheet 1": {
+      "staticOverrides": {
+        "byObject": {
+          "Heading 1": {}
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Heading 1": {
+            "trackData": {
+              "we52D56Wpp": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Heading 1:[\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "2nxUhSSWU-",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "1w0FPVQpKX",
+                    "position": 5.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5630857267087497,
+                      1.9063923089897117,
+                      0.5,
+                      0
+                    ],
+                    "value": 522.7457171770716
+                  }
+                ]
+              },
+              "LKSaAfUfMf": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Heading 1:[\"opacity\"]",
+                "keyframes": [
+                  {
+                    "id": "yyJgJAaJeD",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  },
+                  {
+                    "id": "sPhJfpH2At",
+                    "position": 2.867,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "9iassrMrzD",
+                    "position": 5.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"y\"]": "we52D56Wpp",
+              "[\"opacity\"]": "LKSaAfUfMf"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "QMOSDjW4UGHj4uHm"
+  ]
+}
